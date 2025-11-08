@@ -1,0 +1,54 @@
+levels:
+- EMERGENCY
+- URGENT
+- ROUTINE_SELF_CARE
+rules:
+- level: EMERGENCY
+  all_of:
+  - chest_pain
+  any_of:
+  - shortness_of_breath
+  - dizziness
+  - nausea
+  - sweating
+  - arm_weakness
+  advice: Possible cardiac emergency. Call local emergency number immediately.
+- level: EMERGENCY
+  any_of:
+  - speech_difficulty
+  - face_droop
+  - arm_weakness
+  - confusion
+  - fainting
+  advice: Possible stroke. Call emergency services immediately.
+- level: URGENT
+  all_of:
+  - shortness_of_breath
+  any_of:
+  - fever
+  - wheezing
+  advice: Breathing issue. Seek urgent care within a few hours.
+- level: URGENT
+  all_of:
+  - urinary_burning
+  any_of:
+  - blood_in_urine
+  - fever
+  advice: Possible urinary infection with complications. See a clinician within 24
+    hours.
+- level: URGENT
+  all_of:
+  - stiff_neck
+  - fever
+  advice: Neck stiffness with fever can be serious. Seek urgent medical evaluation.
+- level: ROUTINE_SELF_CARE
+  any_of:
+  - runny_nose
+  - sore_throat
+  - cough
+  - fatigue
+  - headache
+  advice: Likely minor viral illness. Rest, fluids, and over‑the‑counter care. Monitor
+    symptoms.
+disclaimer: Educational use only. Not a diagnosis. If symptoms are severe, new, or
+  worsening, seek professional care immediately.

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💜 AI Health Assistant</title>
+  <link rel="stylesheet" href="/frontend/styles.css">
+</head>
+<body>
+
+  <div id="bubbles"></div>
+  <h1>💜 AI Health Assistant</h1>
+
+  <div class="chat-container" id="chat"></div>
+
+  <div class="input-area">
+    <input id="userInput" type="text" placeholder="Describe your symptoms..." />
+    <div class="btn-group">
+      <button id="speakBtn">🎤</button>
+      <button onclick="sendMessage()">📨</button>
+    </div>
+  </div>
+
+  <div class="extra-btn-group" style="width:90%; max-width:700px; margin:0 auto 10px auto;">
+    <button onclick="study()">📚 Study</button>
+    <button onclick="search()">🔍 Search</button>
+    <button onclick="uploadPhoto()">🖼️ Upload Photo</button>
+  </div>
+
+  <div class="top-buttons">
+    <button onclick="login()">Login</button>
+    <button onclick="signup()">Signup</button>
+    <button onclick="togglePanel()">⚙️</button>
+  </div>
+
+  <div class="panel" id="panel">
+    <label>Language
+      <select id="langSelect" onchange="setLang()">
+        <option value="en">English</option>
+        <option value="hi">Hindi</option>
+        <option value="ta">Tamil</option>
+        <option value="te">Telugu</option>
+        <option value="ml">Malayalam</option>
+        <option value="kn">Kannada</option>
+        <option value="fr">French</option>
+      </select>
+    </label>
+    <label>Mode
+      <select id="modeSelect" onchange="setMode()">
+        <option value="light">Light</option>
+        <option value="dark" selected>Dark</option>
+      </select>
+    </label>
+    <button onclick="toggleCalendar()">📅 Tracker</button>
+    <button onclick="dietPlan()">🥗 Diet Plan</button>
+    <button onclick="sleepMonitor()">💤 Sleep Monitor</button>
+    <button onclick="moodTracker()">😊 Mood Tracker</button>
+  </div>
+
+  <div class="calendar" id="calendar">
+    <h3>🩺 Health Tracker</h3>
+    <table id="calendarTable"></table>
+    <ul id="trackList"></ul>
+  </div>
+
+  <div class="scroll-btn" id="scrollBtn">⬇️</div>
+
+  <!-- Robot -->
+  <div class="robot">
+    <svg viewBox="0 0 64 64">
+      <rect x="10" y="20" width="44" height="30" rx="8" ry="8" fill="#c77dff"/>
+      <circle cx="24" cy="35" r="4" class="eye" fill="#fff"/>
+      <circle cx="40" cy="35" r="4" class="eye" fill="#fff"/>
+      <rect x="28" y="50" width="8" height="4" rx="2" fill="#fff"/>
+      <rect x="29" y="10" width="6" height="10" rx="3" fill="#c77dff"/>
+    </svg>
+  </div>
+
+  <div class="robot-tip" id="robotTip">🤖 Stay hydrated 💧</div>
+
+  <script src="/frontend/app.js" defer></script>
+</body>
+</html>  present index

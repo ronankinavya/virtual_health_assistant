@@ -1,0 +1,23 @@
+Accuracy: 0.983
+
+                         precision    recall  f1-score   support
+
+       acute_bronchitis       0.91      1.00      0.95        21
+    asthma_exacerbation       0.96      0.96      0.96        23
+            common_cold       1.00      1.00      1.00        20
+         conjunctivitis       0.91      1.00      0.95        21
+               covid_19       1.00      1.00      1.00        20
+            dental_pain       1.00      1.00      1.00        19
+             dermatitis       1.00      0.90      0.95        20
+        gastroenteritis       1.00      0.95      0.97        20
+              influenza       1.00      1.00      1.00        17
+           kidney_stone       1.00      1.00      1.00        23
+               migraine       1.00      1.00      1.00        19
+           otitis_media       1.00      1.00      1.00        20
+              pneumonia       1.00      0.94      0.97        18
+       tension_headache       1.00      1.00      1.00        19
+urinary_tract_infection       1.00      1.00      1.00        20
+
+               accuracy                           0.98       300
+              macro avg       0.99      0.98      0.98       300
+           weighted avg       0.98      0.98      0.98       300

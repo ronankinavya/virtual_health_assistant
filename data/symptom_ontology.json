@@ -1,0 +1,157 @@
+{
+  "fever": [
+    "fever",
+    "high temperature",
+    "pyrexia"
+  ],
+  "cough": [
+    "cough",
+    "coughing"
+  ],
+  "sore_throat": [
+    "sore throat",
+    "throat pain",
+    "throat hurts"
+  ],
+  "runny_nose": [
+    "runny nose",
+    "nasal discharge",
+    "rhinorrhea"
+  ],
+  "fatigue": [
+    "fatigue",
+    "tired",
+    "exhausted"
+  ],
+  "headache": [
+    "headache",
+    "head pain"
+  ],
+  "nausea": [
+    "nausea",
+    "queasy"
+  ],
+  "vomiting": [
+    "vomit",
+    "vomiting"
+  ],
+  "diarrhea": [
+    "diarrhea",
+    "loose stools"
+  ],
+  "abdominal_pain": [
+    "stomach pain",
+    "abdominal pain",
+    "belly pain"
+  ],
+  "chest_pain": [
+    "chest pain",
+    "pressure in chest",
+    "tight chest"
+  ],
+  "shortness_of_breath": [
+    "shortness of breath",
+    "breathless",
+    "difficulty breathing"
+  ],
+  "wheezing": [
+    "wheeze",
+    "wheezing"
+  ],
+  "loss_of_smell": [
+    "loss of smell",
+    "anosmia"
+  ],
+  "loss_of_taste": [
+    "loss of taste",
+    "ageusia"
+  ],
+  "rash": [
+    "rash",
+    "skin eruption"
+  ],
+  "joint_pain": [
+    "joint pain",
+    "arthralgia"
+  ],
+  "muscle_pain": [
+    "muscle pain",
+    "myalgia",
+    "body ache"
+  ],
+  "back_pain": [
+    "back pain",
+    "low back pain"
+  ],
+  "urinary_burning": [
+    "burning urination",
+    "dysuria",
+    "painful urination"
+  ],
+  "frequent_urination": [
+    "frequent urination",
+    "peeing often",
+    "urinating a lot"
+  ],
+  "blood_in_urine": [
+    "blood in urine",
+    "hematuria"
+  ],
+  "ear_pain": [
+    "ear pain",
+    "otalgia"
+  ],
+  "tooth_pain": [
+    "tooth pain",
+    "toothache"
+  ],
+  "eye_redness": [
+    "red eye",
+    "eye redness"
+  ],
+  "photophobia": [
+    "photophobia",
+    "light hurts eyes",
+    "sensitivity to light"
+  ],
+  "dizziness": [
+    "dizzy",
+    "dizziness",
+    "lightheaded"
+  ],
+  "fainting": [
+    "fainting",
+    "passed out",
+    "syncope"
+  ],
+  "palpitations": [
+    "palpitations",
+    "heart racing"
+  ],
+  "leg_swelling": [
+    "leg swelling",
+    "swollen legs",
+    "ankle swelling"
+  ],
+  "confusion": [
+    "confused",
+    "confusion"
+  ],
+  "speech_difficulty": [
+    "slurred speech",
+    "trouble speaking",
+    "speech difficulty"
+  ],
+  "face_droop": [
+    "face droop",
+    "facial droop"
+  ],
+  "arm_weakness": [
+    "arm weakness",
+    "weak arm"
+  ],
+  "stiff_neck": [
+    "stiff neck",
+    "neck stiffness"
+  ]
+}
