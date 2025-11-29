@@ -1,0 +1,101 @@
+symptom,disease,severity_level,danger_flag,description,precautions,duration_rules,risk_level
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
+chest pain,heart attack,severe,1,Sharp or squeezing chest pain,Call ambulance immediately,immediate,high
+shortness of breath,heart attack,severe,1,Difficulty breathing,Seek urgent medical care,immediate,high
+nausea,heart attack,moderate,1,Feeling sick,"Sit down, do not drive",within hours,high
+fatigue,heart attack,mild,0,Feeling unusually tired,Rest,days,medium
+headache,migraine,severe,0,Severe pulsating headache,Rest in dark room,hours,medium
+sensitivity to light,migraine,moderate,0,Eyes hurt in bright light,"Use sunglasses, avoid screen",hours,medium
+fever,flu,moderate,0,Elevated temperature,"Drink fluids, rest",days,medium
+cough,flu,mild,0,Dry or wet cough,"Cover mouth, monitor",days,low
+rash,chickenpox,moderate,0,Red itchy spots,Avoid scratching,days,medium
+vomiting,food poisoning,severe,1,Frequent vomiting,"Hydrate, seek care if persists",hours,high
