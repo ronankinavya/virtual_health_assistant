@@ -363,3 +363,7 @@ async def set_contacts(request: Request):
     cur.close()
     conn.close()
     return JSONResponse({"status":"contacts saved"})
+if __name__ == "__main__":
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))  # Use Railway's port or 8000 locally
+    uvicorn.run(app, host="0.0.0.0", port=port)
