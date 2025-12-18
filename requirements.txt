@@ -1,9 +1,5 @@
 fastapi
 uvicorn
 python-dotenv
-mysql-connector-python
 twilio
-pydantic
-jinja2
-python-multipart
-PyYAML
+sqlite3
