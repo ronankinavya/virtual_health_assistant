@@ -360,17 +360,19 @@ async def analyze(request: Request):
 
     # Check if session exists
     if session_id not in sessions:
-        # Detect disease keyword
-        detected = None
+        sessions[session_id] = {
+        "disease": None,
+        "answers": [],
+        "current_q": 0
+        }
+
+     # 🔥 ALWAYS try to detect disease if not already set
+    if not sessions[session_id]["disease"]:
         for disease in DISEASES:
             if disease in text:
-                detected = disease
+                sessions[session_id]["disease"] = disease
                 break
-        sessions[session_id] = {
-            "disease": detected,
-            "answers": [],
-            "current_q": 0
-        }
+
 
     session = sessions[session_id]
     disease = session.get("disease")
